@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @FirstXCH
 - 👀 I’m interested in C,Lua,Python,java,html,css,javascript.
-- 🌱 I’m currently learning How to write code?
-- 💞️ I’m looking to collaborate on Anyone can teach me.
-- 📫 How to reach me Sent email to first.zxa@gmail.com or youtube FirstXCH.
-- ⚡ Fun fact: I am 20 year old.
+- 🥰 My career goal is to work in Cybersecurity or Web Development, with a focus on backend or possibly becoming a Full Stack Developer in the future. I also dream of building my own game development company.
 
 <!---
 FirstXCH/FirstXCH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
