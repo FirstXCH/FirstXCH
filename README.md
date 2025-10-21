@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FirstXCH
-- 👀 I’m interested in C,Lua,Python,java,html,css,javascript.
+- 👀 Basic knowledge in Java, C, HTML, and CSS.
 - 🥰 My career goal is to work in Cybersecurity or Web Development, with a focus on backend or possibly becoming a Full Stack Developer in the future. I also dream of building my own game development company.
 
 <!---
