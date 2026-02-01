@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FirstXCH
-- 👀 Basic knowledge in Java, C, HTML, and CSS.
+- 👀 Basic knowledge in Luau(RobloxStudio-dev), Java(Basic), C(Basic), HTML(Basic), CSS(Basic).
 - 🥰 My career goal is to work in Cybersecurity or Web Development, with a focus on backend or possibly becoming a Full Stack Developer in the future. I also dream of building my own game development company.
 
 <!---
