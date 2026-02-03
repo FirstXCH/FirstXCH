@@ -5,7 +5,7 @@
   # Hi there, I'm First! 👋
   ### Computer Engineering Student | Roblox Developer 🛠️
 
-  Running on money 💸 and code. Currently studying at **RMUTI Khon Kaen**.
+  Currently studying at **RMUTI Khon Kaen**.
   Passionate about **Game Development (Luau)** and **Software Development**.
 
   ---
