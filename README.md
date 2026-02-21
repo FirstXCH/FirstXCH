@@ -10,19 +10,29 @@
 
   ---
 
+  ### 🚀 Featured Projects
+  
+  **Vocab Slayer (3D Typing RPG) ⚔️**<br/>
+  *A web-based 3D typing mini-game with interactive models.*<br/>
+  <a href="https://mini-project-game-ai.vercel.app/">
+    <img src="https://img.shields.io/badge/🎮_Play_Now_on_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Play Game" />
+  </a>
+  <br/>
+
+  ---
+
   ### 💻 Tech Stack
   <img src="https://img.shields.io/badge/Luau-00a2ff?style=for-the-badge&logo=roblox&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <br/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
   <br/>
-
-  ### 📊 GitHub Stats
-  ![FirstXCH's Stats](https://github-readme-stats.vercel.app/api?username=FirstXCH&show_icons=true&theme=tokyonight&hide_border=true)
-  ![FirstXCH's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FirstXCH&layout=compact&theme=tokyonight&hide_border=true)
 
   ---
 
