@@ -12,8 +12,6 @@
 
   ### 🚀 Featured Projects
   
-  **Vocab Slayer (3D Typing RPG) ⚔️**<br/>
-  *A web-based 3D typing mini-game with interactive models.*<br/>
   <a href="https://mini-project-game-ai.vercel.app/">
     <img src="https://img.shields.io/badge/🎮_Play_Now_on_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Play Game" />
   </a>
