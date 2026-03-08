@@ -32,6 +32,7 @@
 
   <br/>
 
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/firstxch?theme=dark&font=baloo&ext=activity)
   ---
 
   ### 📫 Connect with me
