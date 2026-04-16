@@ -12,6 +12,9 @@
   <a href="https://fastwork.co/user/firstxch?source=web_marketplace_profile-menu_profile">
     <img src="https://img.shields.io/badge/Freelance_on_Fastwork-003366?style=for-the-badge" alt="Fastwork Profile" />
   </a>
+  <a href="https://github.com/FirstXCH/My-Experience">
+    <img src="https://img.shields.io/badge/📁_View_My_Experience-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Experience" />
+  </a>
   <br/>
 
   ---
