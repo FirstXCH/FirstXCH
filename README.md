@@ -43,8 +43,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
   <br/>
-
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/firstxch?theme=dark&font=baloo&ext=activity)
+  
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/69f042aa8145813cabad0f50?variant=dark" alt="roadmap.sh"/></a>
   ---
 
   ### 📫 Connect with me
