@@ -21,12 +21,18 @@
 
   ### 🚀 My Project
   
-  <a href="https://mini-project-game-ai.vercel.app/">
-    <img src="https://img.shields.io/badge/🎮_Play_Now_on_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Play Game" />
-  </a>
-  <a href="https://ro.blox.com/Ebh5?af_dp=roblox%3A%2F%2Fnavigation%2Fgame_details%3FgameId%3D9977771301&af_web_dp=https%3A%2F%2Fwww.roblox.com%2Fgames%2F77098184859764">
-    <img src="https://img.shields.io/badge/🎮_Play_My_Roblox_Game-00a2ff?style=for-the-badge&logo=roblox&logoColor=white" alt="Play Roblox Game" />
-  </a>
+   <a href="https://grammar-check-website.vercel.app/">
+  <img src="https://img.shields.io/badge/📝_Try_Grammar_Check-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Try Grammar Check" />
+</a>
+
+<a href="https://mini-project-game-ai.vercel.app/">
+  <img src="https://img.shields.io/badge/🎮_Play_Mini_Game_AI-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Play Mini Game AI" />
+</a>
+
+<a href="https://ro.blox.com/Ebh5?af_dp=roblox%3A%2F%2Fnavigation%2Fgame_details%3FgameId%3D9977771301&af_web_dp=https%3A%2F%2Fwww.roblox.com%2Fgames%2F77098184859764">
+  <img src="https://img.shields.io/badge/🎮_Play_My_Roblox_Game-00a2ff?style=for-the-badge&logo=roblox&logoColor=white" alt="Play Roblox Game" />
+</a>
+
   <br/>
 
   ---
